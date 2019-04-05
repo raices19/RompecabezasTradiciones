@@ -1,4 +1,4 @@
-package dragosholban.com.androidpuzzlegame;
+package dragosholban.com.rompecabezastradiciones;
 
 import org.junit.Test;
 

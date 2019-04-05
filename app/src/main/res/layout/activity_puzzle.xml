@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/fondo"
-    tools:context="dragosholban.com.androidpuzzlegame.PuzzleActivity">
+    tools:context="dragosholban.com.rompecabezastradiciones.PuzzleActivity">
 
     <ImageView
         android:id="@+id/imageView2"
@@ -38,14 +38,15 @@
 
     <RelativeLayout
         android:id="@+id/layout"
-        android:layout_width="393dp"
-        android:layout_height="655dp"
+        android:layout_width="389dp"
+        android:layout_height="623dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.272"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.105"></RelativeLayout>
+        app:layout_constraintVertical_bias="0.074"></RelativeLayout>
 
 </android.support.constraint.ConstraintLayout>

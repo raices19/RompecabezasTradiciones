@@ -1,4 +1,4 @@
-package dragosholban.com.androidpuzzlegame;
+package dragosholban.com.rompecabezastradiciones;
 
 import android.view.MotionEvent;
 import android.view.View;

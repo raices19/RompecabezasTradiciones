@@ -1,4 +1,4 @@
-package dragosholban.com.androidpuzzlegame;
+package dragosholban.com.rompecabezastradiciones;
 
 import android.content.Intent;
 import android.content.res.AssetManager;
